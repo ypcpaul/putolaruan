@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puto's Toy House</title>
+    <description>My playground.</description>
+    <link>http://putolaruan.com/</link>
+    <atom:link href="http://putolaruan.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>It's been a while</title>
+        <description>&lt;p&gt;It’s been a long while since I posted on this blog.  At first, I thought of posting here every week or so.  Sadly, I got distracted.  So here I am, trying to write about my experiences again.  Hopefully, I can devote time for it.&lt;/p&gt;
+
+&lt;p&gt;Coinciding with me writing again on this blog, is me learning new things again related to web development.  Any software developer knows that you need to continue on trying out, experimenting, reading about new technologies, lest you be left behind by your peers and by the industry.  I’m looking on revisiting node.js, as well as React, and Python3.  But this time, I’ll take things slower, and try to work on little goals instead of planning one big project with the said technologies.  This ends the blog post.  :)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 May 2015 08:25:00 +0800</pubDate>
+        <link>http://putolaruan.com/blog/2015/05/28/its-been-a-while.html</link>
+        <guid isPermaLink="true">http://putolaruan.com/blog/2015/05/28/its-been-a-while.html</guid>
+      </item>
+    
+      <item>
+        <title>Working with legacy code</title>
+        <description>&lt;p&gt;Legacy code.  Rarely do these words be met with enthusiasm amongst devs.  Most programmers would like to code something current, new, trending.  It’s understandable, it’s fun to create your own than maintaining code that has been passed to you, especially those that are considered to be out of date.  However, most devs would run into legacy code, whether they like to or not.  That’s the case for me right now.&lt;/p&gt;
+
+&lt;p&gt;Personally, I do find creating new web apps more fun than handling old, established, stable code.  You get to experiment, do rapid prototypes, proof of concepts.  It’s exciting to see something you’ve developed to mature into something beautiful (although it can grow to be a monster too).  Modifying, maintaining or fixing old systems though, is usually not.  It can be frustrating, looking through the code and trying to understand why certain things are done in certain ways.  It feels like you’re an archeologist of software.  Sometimes, even trying to make it work on your machine can be tedious due to the application using and relying on outdated versions of either the language, the database, web server, or libraries.&lt;/p&gt;
+
+&lt;p&gt;6 years of working, and now I get to handle &lt;em&gt;true&lt;/em&gt; legacy code.  Not just hand-me-down code.  It’s quite outdated in architecture, coding style, and practices.  However, I try to be optimistic.  I believe there are ways to make this experience more appealing, and I’m sure there are challenges ahead that I can learn a lot from.  Maybe there’s a treasure I can find somewhere here while cleaning the place up.  Wish me luck!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Nov 2014 22:20:00 +0800</pubDate>
+        <link>http://putolaruan.com/blog/2014/11/02/first-real-legacy-code.html</link>
+        <guid isPermaLink="true">http://putolaruan.com/blog/2014/11/02/first-real-legacy-code.html</guid>
+      </item>
+    
+      <item>
+        <title>Hello Jekyll</title>
+        <description>&lt;p&gt;Creating a site for me is tedious.  I’m not great with designing web pages.  In fact, I’m utter shit.  So when I decided to have my own website, I needed to find a way to create one easily.  Nothing extravagant, but something presentable, at least.  My search lead me to Jekyll.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; is a static web site generator written in Ruby.  It’s the &lt;a href=&quot;https://www.staticgen.com/&quot;&gt;most popular&lt;/a&gt; one in github, in fact.  I know nothing about Ruby, but I haven’t needed the knowledge so far.  Jekyll
+is quite easy to use, and the documentation is solid.  I use &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;markdown&lt;/a&gt; format for writing my posts.&lt;/p&gt;
+
+&lt;p&gt;However, I still needed to design my page.  I searched for Jekyll themes and good thing there was a &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;site&lt;/a&gt; that showcases some good ones.  I chose Pixyll created by &lt;a href=&quot;http://johnotander.com&quot;&gt;John Otander&lt;/a&gt;, as I feel that its simplicity is perfect for my personality.  So far, I’m satisfied with the result.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Oct 2014 05:11:00 +0800</pubDate>
+        <link>http://putolaruan.com/blog/2014/10/03/jekyll-blog.html</link>
+        <guid isPermaLink="true">http://putolaruan.com/blog/2014/10/03/jekyll-blog.html</guid>
+      </item>
+    
+      <item>
+        <title>First post</title>
+        <description>&lt;p&gt;Hello there!  This is my first post ever on my site.  Hoping to fill this up soon with random things and ramblings.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Oct 2014 03:10:00 +0800</pubDate>
+        <link>http://putolaruan.com/blog/2014/10/03/first-post.html</link>
+        <guid isPermaLink="true">http://putolaruan.com/blog/2014/10/03/first-post.html</guid>
+      </item>
+    
+  </channel>
+</rss>
