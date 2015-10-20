@@ -7,6 +7,28 @@
     <atom:link href="http://putolaruan.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Moving to Github Pages</title>
+        <description>&lt;p&gt;After hosting this website of mine on a VPS for a year, I’ve decided to move it to &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;.
+For those who are not familiar with it, Github Pages allows you to serve either your personal, organization
+or your Github project’s web pages through github itself just by having a repository on your github accounts with its repo name matching a pattern.
+For personal websites like mine, the default URL would be githubaccountname.github.com.
+You can then configure your DNS settings on your domain provider to point to github 
+(instructions &lt;a href=&quot;https://help.github.com/articles/about-custom-domains-for-github-pages-sites/&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Why move it?  For the past year, I was only using Amazon’s AWS free trial.  After that expired, I tried looking into
+other VPS providers (DO, Linode, Vultr, etc.).  I almost created an instance on Vultr, but I can’t justify the expense 
+since I have no plans on using it for anything other than a website.  Lastly, Github Pages uses Jekyll already, which is 
+perfect since I already use it as my blogging platform!&lt;/p&gt;
+
+&lt;p&gt;putolaruan.com will stay here for now, until I find a reason to setup my own VPS again, or if I decide to use
+my Github Pages solely for my open source works (that is, if I get anything done at all!).&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Oct 2015 23:04:00 +0800</pubDate>
+        <link>http://putolaruan.com/blog/2015/10/20/moving-to-github-pages.html</link>
+        <guid isPermaLink="true">http://putolaruan.com/blog/2015/10/20/moving-to-github-pages.html</guid>
+      </item>
+    
+      <item>
         <title>Racing Heart</title>
         <description>&lt;p&gt;Racing heart, cannot stop&lt;br /&gt;
 My mind is revving with just your breathing&lt;br /&gt;
